@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d0b9f87a046f7765","type":"group","x":1080,"y":-360,"width":960,"height":1000,"color":"5","label":"Calendar"},
+		{"id":"f0583a0dd4992ae4","type":"group","x":-260,"y":-360,"width":1320,"height":480,"color":"4","label":"Active"},
+		{"id":"6cb7265e7abe8942","type":"group","x":-260,"y":160,"width":1320,"height":480,"color":"2","label":"Completed"},
+		{"id":"30d59192710796f7","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Personal Projects","x":200,"y":-320,"width":400,"height":400},
+		{"id":"f24c0374285e3a23","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Work Projects","x":620,"y":-320,"width":400,"height":400},
+		{"id":"64108434ab67eae7","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#University Units","x":-220,"y":-320,"width":400,"height":400},
+		{"id":"1c76ff1968fce6bb","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Personal Completed","x":200,"y":200,"width":400,"height":400},
+		{"id":"4513771fac5855d1","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Work Completed","x":620,"y":200,"width":400,"height":400},
+		{"id":"cf2fa5d74273cb9c","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#University Completed","x":-220,"y":200,"width":400,"height":400},
+		{"id":"74601374691a41e2","type":"text","text":"```dataviewjs\nfunction callout(text, type) {\n    const allText = `> [!${type}]\\n` + text;\n    const lines = allText.split('\\n');\n    return lines.join('\\n> ') + '\\n';\n}\n\nconst query = `\nnot done\nsort by path\npath does not include \"/Templates\"\n# you can add any number of extra Tasks instructions, for example:\ngroup by priority\nshort form\n`;\n\ndv.paragraph(callout('```tasks\\n' + query + '\\n```', 'todo'));\n```\n\n","x":-720,"y":-360,"width":440,"height":1000,"color":"5"},
+		{"id":"0f03572526ea0aa8","type":"text","text":"```dataviewjs\nawait dv.view(\"tasksCalendar\", {pages: \"\", view: \"month\", firstDayOfWeek: \"1\", options: \"style3\"})\n```\n\n","x":1120,"y":-260,"width":880,"height":800}
+	],
+	"edges":[]
+}

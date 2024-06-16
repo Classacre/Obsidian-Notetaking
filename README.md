@@ -1,6 +1,10 @@
 # Obsidian-Notetaking
 My iteration of what I believe is the most efficient and automated note taking system which leverages the Obsidian app and its plugin ecosystem. This note taking system aims to replace Zotero, Anki, Your Web Browser, Calendars, To do lists, Mindmaps and much more in one single application. I believe that by incorporating everyting into one system / application we greatly increase productivity.
 
+These notes were designed with the PARA method (by Tiago Forte) in mind instead of Zettelkasten (popularized by Niklas Luhmann), hence, these notes are structured around projects, areas, resources and archives (PARA). Zettelkasten may be used after the PARA method for consolidation of concepts. See image below.
+
+![Elevate Note Taking Workflow](https://github.com/Classacre/Obsidian-Notetaking/assets/40638863/9bcccaa3-c90f-4091-8197-bbcdf4230283)
+
 # Purpose of this Git Repository
 Serves as a backup of my Obsidian vault in the rare event that Obsidians built in syncing system fails or is discontinued. Additionally serves as documentation for people who wish to build an efficient and automated note taking system simmilar to what I have developed through the obsidian app.
 

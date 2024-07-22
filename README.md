@@ -91,3 +91,7 @@ Automated tempalting of notes based on class defined in Class folder (created by
 
 ## Text Extractor
 Dependancy for Omnisearch. Automatically OCRs PDF's and Images without the need to use an external app like Adobe Acrobat DC.
+
+## Additional plugins (may be incorporated into future workflows)
+- ObsidianWhisper (automated conversion of audio transcripts to text)
+- Livecode (allows to run code directly in obsidian)

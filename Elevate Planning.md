@@ -11,8 +11,8 @@ tags:
 # To-do
 - [x] Finish Elevate Planning ✅ 2024-06-15
 - [x] Find out Masters subjects ✅ 2024-06-15
-- [ ] Create note taking canvas to visualize workflow
-
+- [x] Create note taking canvas to visualize workflow ✅ 2024-06-16
+- [x] Showcase home page ✅ 2024-07-22
 
 
 ---

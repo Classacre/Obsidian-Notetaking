@@ -1,7 +1,7 @@
 ---
 Class: Personal
 Priority: Low
-Status: Working
+Status: Done
 tags: 
 share_link: https://share.note.sx/1nkbk2a2#BVovy4C0DPCbC9Dh5a3JN3yCY4/PRGgtX63jsOSWAcM
 share_updated: 2024-07-22T15:10:58+08:00

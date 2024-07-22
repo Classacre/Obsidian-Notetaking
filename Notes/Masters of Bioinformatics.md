@@ -4,7 +4,7 @@ Priority: Low
 Status: Working
 tags: 
 share_link: https://share.note.sx/1nkbk2a2#BVovy4C0DPCbC9Dh5a3JN3yCY4/PRGgtX63jsOSWAcM
-share_updated: 2024-06-15T23:28:50+08:00
+share_updated: 2024-07-22T15:10:58+08:00
 ---
 > > [!quote] The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 > — Helen Keller
@@ -12,6 +12,8 @@ share_updated: 2024-06-15T23:28:50+08:00
 # Notes for Masters of Bioinformatics
 ### Study Plan
 ![[Master of Bioinformatics (96 Credit Points 2 Years)(2).xlsx]]
+
+## Study Plan V1 (Old & Outdated)
 
 | Year | Credit     | Coursework & Dissertation                                                                                                                                                                     | Name                                                                         | Availability |
 | ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------ |
@@ -31,9 +33,6 @@ share_updated: 2024-06-15T23:28:50+08:00
 | 2    | Semester 1 | [GENE4001](https://handbooks.uwa.edu.au/unitdetails?code=GENE4001)                                                                                                                            | Advanced Studies in Genetics and Genomics                                    | S1           |
 | 2    | Semester 1 | [SCIE5003](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5003)                                                                                                                            | Advanced Bioinformatics and Data Analysis for Genomics                       | S1           |
 | 2    | Semester 1 | [SCIE5571](https://handbooks.uwa.edu.au/coursedetails?code=70550#course-structure)                                                                                                            | Dissertation Part I                                                          | S1           |
-|      |            |                                                                                                                                                                                               |                                                                              |              |
-|      |            |                                                                                                                                                                                               |                                                                              |              |
-
 
 ## Study Plan V2
 | Year | Credit     | Coursework and Dissertation                                                        | Name                                                       | Availability |
@@ -54,4 +53,3 @@ share_updated: 2024-06-15T23:28:50+08:00
 | 2    | Semester 1 | [GENE4001](https://handbooks.uwa.edu.au/unitdetails?code=GENE4001)                 | Advanced Studies in Genetics and Genomics                  | S1           |
 | 2    | Semester 1 | [SCIE5003](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5003)                 | Advanced Bioinformatics and Data Analysis for Genomics     | S1           |
 | 2    | Semester 1 | [SCIE5574](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5574)                 | Dissertation Part 4                                        | S1           |
-|      |            |                                                                                    |                                                            |              |

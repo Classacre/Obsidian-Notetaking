@@ -146,6 +146,55 @@ tags:
 > 
 > via quantitative reverse PCR, looks only at one gene, cheaper than RNA sequencing
 
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=6&rect=250,14,937,444&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.6]]alot of the sequence is repetitive
+
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=14&rect=521,56,922,259&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.14]]
+can lie on introns or on exons (antisense strand)
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=19&selection=8,0,9,0&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.19]]
+> > ESTs
+> 
+> expressed sequenced tags, polyadenlyated rna, short read of transcript that gave evidence that it was being expressed - low throughput, large endeavour to do over many genes
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=19&selection=26,0,27,1&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.19]]
+> > Microarray 
+> 
+> printed surface where dna spots printed on slide which allow to detect hybridized sequences
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=19&selection=34,0,35,0&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.19]]
+> > RNA-seq
+> 
+> high throughput
+
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=24&rect=14,17,1013,756&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.24]]needs additional research
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=25&selection=2,0,2,55&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.25]]
+> > RNA-seq: massively parallel sequencing of RNA fragments
+> 
+> largest method is sequencing by synthesis, turn RNA into DNA which makes copies of DNA and sequences copies
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=33&selection=8,0,10,6&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.33]]
+> > Bromodeoxyuridine (BrdU)
+> 
+> analog of thymodine
+
+
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=34&rect=98,320,404,675&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.34]]eliminates RNA except for the one in the ribosome
+
+
+
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=38&rect=517,397,565,438&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.38]]poly t hybridizes to poly A sequences
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=38&selection=27,19,29,8&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.38]]
+> > 10x barcodes
+> 
+> each barcode is different on every bead
+
+> [!PDF|yellow] [[SCIE4001 - 2022 Transcriptomics lecture.pdf#page=43&selection=0,0,0,34&color=yellow|SCIE4001 - 2022 Transcriptomics lecture, p.43]]
+> > Spatially resolved transcriptomics
+> 
+> simmilar to microarray, lots of spots on surface with oligoDT which pairs to an mRNA
+
 
 
 
@@ -164,3 +213,6 @@ What is backwards genetics? :: something
 ---
 # References for SCIE4401 Introduction
 ![[1. Introduction_SCIE4001_2024_S2.pdf]]![[genotype to phenotype L1- 2023-sem2.pdf]]![[GENOTYPE TO PHENOTYPE L2-2.pdf]]
+![[SCIE4001 - 2022 Transcriptomics lecture.pdf]]
+
+![[2024-05Mar_SCI4001(1).pdf]]

@@ -1,7 +1,7 @@
 # University Units
 ```dataview
 table without id file.link as Title, Priority, Week, Lecture, Flashcards
-from !"Templates"
+from !"git-repo/Templates"
 where Class = "University"
 where Status != "To do"
 where Status != "Done"
@@ -23,7 +23,7 @@ sort choice(Status = "Edit", "1", choice(Status = "Outline", "2","3")) asc
 # Personal Projects
 ```dataview
 table without id file.link as Title, Status, Priority
-from !"Templates"
+from !"git-repo/Templates"
 where Class = "Personal"
 where Status != "To do"
 where Status != "Done"
@@ -45,7 +45,7 @@ sort choice(Status = "Edit", "1", choice(Status = "Outline", "2","3")) asc
 # Work Projects
 ```dataview
 table without id file.link as Title, Status, Priority
-from !"Templates"
+from !"git-repo/Templates"
 where Class = "Work"
 where Status != "To do"
 where Status != "Done"

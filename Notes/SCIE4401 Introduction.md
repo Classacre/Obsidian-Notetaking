@@ -5,15 +5,15 @@ Priority:
   - High
 Week: 1
 Lecture:
-  - 🟥
+  - 🟩
 Flashcards:
   - 🟥
 tags:
+  - "#SCIE4401"
 ---
 > Error generating daily quote
 - [ ] 📅 2024-07-22 Rank Papers for presentation [[SCIE4401 Presentation]]
 - [ ] 🛫 2024-07-30 Release of assignment
-- [ ] 
 ---
 # Timetable
 ![[Timetable SCIE4001 Lectures 2024 S2 v2.pdf]]
@@ -156,6 +156,9 @@ tags:
 
 ---
 # Flashcards for SCIE4401 Introduction
+What is forward genetics? :: something
+
+What is backwards genetics? :: something
 
 
 ---

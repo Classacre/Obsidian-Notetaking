@@ -10,11 +10,7 @@ tags:
 > [!PDF|yellow] [[1. Genotype to Phenotype.pdf#page=1&selection=4,0,4,11&color=yellow|1. Genotype to Phenotype, p.1]]
 > > Arabidopsis
 > 
-<<<<<<< HEAD
-> Flower (Thale cress) 
-=======
 > 
->>>>>>> origin/main
 
 
 ---

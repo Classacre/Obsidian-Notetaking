@@ -25,9 +25,9 @@ All of the plugins are available via the Obsidian community plugins browser - B.
 - Omnisearch
 - PDF++
 - Share Note
-- Smart Second Brain
+- Smart Second Brain (optional - requires large compute. Syphon power from university compute)
 - Spaced Repetition
-- Surfing
+- Surfing (optional - not as convenient as proprietary browsers)
 - Tasks
 - Templater
 - Text Extractor
@@ -74,13 +74,13 @@ The core note taking plugin. Fundamentally replaces Zotero in its entirety and i
 ## Share Note
 Allows for sharing a specific note online while maintaining .css styles from the obsidian theme. Simply allows sharing of notes to other people without exposing the entirety of the vault unlike Obsidian Publish.
 
-## Smart Second Brain
+## Smart Second Brain (optional)
 AI component of this vault. Allows for RAG lookup of notes and documents. Also doubles as an AI assistant (may be used in tandem with RAG feature or as standalone). Works completely offline through OLlama. May be used online through OpenAI API's. May be used as an AI search engine via its text-encoding feature.
 
 ## Spaced Repition
 Scientifically backed repetition algorithm for memorization of concepts. Replaces Anki. Works with callouts (helpful when linking a callout to a lecture diagram through PDF++).
 
-## Surfing
+## Surfing (optional)
 Opens all hyperlinks and web based links in Obsidian by hijacking its callout feature. Aims to remove need to use a web browser for studying. Works simmilarly to the Custom Frames plugin but affects links.
 
 ## Tasks

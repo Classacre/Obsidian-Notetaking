@@ -197,17 +197,32 @@ can lie on introns or on exons (antisense strand)
 
 
 
+---
+# Compressed Notes
+## Lecture 1
+### Basics of Functional Genomics
+• Describe various targeted genetic approaches to determine the function of a protein. 
+• Describe how plant phenotypes can be used to unravel a proteins function. 
+• Understand the current research themes and approaches used in reverse genetics and forward genetic screens in the model Arabidopsis thaliana 
+• Critically evaluate the discussed techniques available for researchers today.
 
+***What is Functional genomics?*** 
+Using genomic data to study gene and protein expression and function on a global scale (genome-wide or system-wide), focusing on gene transcription, translation and protein-protein interactions, and often involving high-throughput methods. Essentially, the study of how genes (and intergenic regions) contribute to different biological processes.
 
+***What is the aim of functional genomics?***
+To understand the complex relationship between genotype and phenotype
 
-
+Investigation of gene function is split into reverse genetics and forward genetics.
+Reverse genetics:
+Forward genetics: 
 
 
 ---
-# Flashcards for SCIE4401 Introduction
-What is forward genetics? :: something
 
-What is backwards genetics? :: something
+# Flashcards for SCIE4401 Introduction
+What is forward genetics? :: Discovering the function of a gene by analysing the phenotypic consequences of a gene
+
+What is reverse genetics? :: Determining the genetic basis responsible for a phentoype
 
 
 ---

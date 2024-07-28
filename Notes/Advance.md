@@ -19,11 +19,11 @@ share_updated: 2024-07-28T19:08:36+08:00
 - Complete additional unit, info found in the following![[UWA-Placement-Induction-Program-Instructions-(May-2024).docx]]
 
 # Skin Routine
-## Kojic Acid
-## Vita C
-## Niacinamide
-## Adapalene
-## Astaxanthin
+## Kojic Acid [HL](https://www.amazon.com.au/Brightening-Glowing-Moisturizing-Melasma-Coconut/dp/B071KNC9Q9/ref=srd_d_vsims_T2_d_sccl_3_2/355-0033083-0371277?pd_rd_w=tVpwv&content-id=amzn1.sym.669cc3a4-4f7d-48da-8f2e-f96037d88eee&pf_rd_p=669cc3a4-4f7d-48da-8f2e-f96037d88eee&pf_rd_r=JSPX7A09TSV4FZH0HKPQ&pd_rd_wg=Dt3Zk&pd_rd_r=675025b9-0e74-463b-a21e-b302f4fafc1c&pd_rd_i=B071KNC9Q9&psc=1)
+
+## Niacinamide (Already in normal face soap)
+## Adapalene [HL](https://www.amazon.com.au/Treatment-Differin-Retinoid-Adapalene-Sensitive/dp/B07ZTN5N1V/ref=sr_1_5?crid=369JV6NOHVGGV&dib=eyJ2IjoiMSJ9.K51M5VHYf-F9x2dJODdVmqXgvLPBrP2N5gR-EMpsyM9F_l7AudpLAzRUTXLJP89Qi6Gdds8_Oi7P37UVOxLYQJuatL4E8hGkNk4jgCVNNCf6GmTKGuz85ZrH0WEvYyWeYdPEK_bzhWPH-RWz5MJ4jHg355rdOhNpfjClbFOYS49j4F4i5ME8oRmnuR1N-0Nt.4xUZjQi_eeF8jJckBevjcXiTBrynKBfAt9X5ABevT_o&dib_tag=se&keywords=adapalene&qid=1722166294&sprefix=adapalen%2Caps%2C290&sr=8-5)
+## Astaxanthin [HL](https://www.amazon.com.au/BioAstin-Hawaiian-Astaxanthin-Naturally-Super-Antioxidant/dp/B006X1DCVO/ref=sr_1_4?crid=2X2S0DB0IOUT4&dib=eyJ2IjoiMSJ9.qjlPkKKyf6Ak25pEf2A6nrFoXeE8vY9KxDqcoZPxtJwaJ1h6sZXhm1Qyq3pFMvTO_mlvnw0kRQFtnoSUMSeMKtFSCzjVgfZwz5g5FfnQ-S1yQVaNKkA6dzUNwLVbxhogTSl6TXxr72DMVQ_SSGij0sY9ZkHXFZ6mXdxmOxkVhrwkgzAXVjoEaVV1FrIq2JzZV7xbxV7kAgg2ZY2nZY_QmgH-9e78GMcg9m-9UuIeR3I1U820gqNu4G2Ov__QGqtZiw9Cm8hmFCET4WKtva5lvvaUwItPpZZiPN9OnxG5YIQ.CHrylx9ueU0SsmUuohdF5s83EXzoI2oq2E0MIN6VK1g&dib_tag=se&keywords=astaxanthin&qid=1722166453&sprefix=Astax%2Caps%2C289&sr=8-4)
 
 # Gym Routine
 ## Workout Routine

@@ -3,6 +3,7 @@
 		{"id":"d0b9f87a046f7765","type":"group","x":1080,"y":-360,"width":960,"height":1000,"color":"5","label":"Calendar"},
 		{"id":"f0583a0dd4992ae4","type":"group","x":-260,"y":-360,"width":1320,"height":480,"color":"4","label":"Active"},
 		{"id":"6cb7265e7abe8942","type":"group","x":-260,"y":160,"width":1320,"height":480,"color":"2","label":"Completed"},
+		{"id":"b56731f3c7a2b0bd","type":"group","x":220,"y":740,"width":427,"height":400,"color":"5","label":"New Calendar"},
 		{"id":"30d59192710796f7","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Personal Projects","x":200,"y":-320,"width":400,"height":400},
 		{"id":"f24c0374285e3a23","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#Work Projects","x":620,"y":-320,"width":400,"height":400},
 		{"id":"64108434ab67eae7","type":"file","file":"git-repo/Queries/Home Dashboard Queries.md","subpath":"#University Units","x":-220,"y":-320,"width":400,"height":400},

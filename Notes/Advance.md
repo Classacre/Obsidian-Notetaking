@@ -51,6 +51,11 @@ share_updated: 2024-07-28T19:08:36+08:00
 |               | Moderate to no caffeine consumption |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                 |
 
 
+| Time of day | Ingredients (Acne Friendly)                                                                                    | Preparation time |
+| ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Breakfast   | **Oats and Berries**<br>- Uncle Tobys Oats / any other brand<br>- Oat milk<br>- Coles Frozen Berry mix<br><br> |                  |
+| Lunch       |                                                                                                                |                  |
+| Dinner      | **Salmon Salad**<br>                                                                                           |                  |
 
 # Height Maxxing
 Based on this book: [[growth-translated-final_compress.pdf]]

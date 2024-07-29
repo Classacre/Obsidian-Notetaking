@@ -9,7 +9,6 @@ share_updated: 2024-07-28T19:08:36+08:00
 > > [!quote] The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 > — Michelangelo
 
----
 # To-do
 - [ ] 🔽 Enroll and complete pre placement unit
 - [ ] Find Volunteering role for Careers and employment award
@@ -51,11 +50,12 @@ share_updated: 2024-07-28T19:08:36+08:00
 |               | Moderate to no caffeine consumption |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                 |
 
 
-| Time of day | Ingredients (Acne Friendly)                                                                                    | Preparation time |
-| ----------- | -------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Breakfast   | **Oats and Berries**<br>- Uncle Tobys Oats / any other brand<br>- Oat milk<br>- Coles Frozen Berry mix<br><br> |                  |
-| Lunch       |                                                                                                                |                  |
-| Dinner      | **Salmon Salad**<br>                                                                                           |                  |
+| Time of day | Ingredients (Acne Friendly)                                                                                    |
+| ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Breakfast   | **Oats and Berries**<br>- Uncle Tobys Oats / any other brand<br>- Oat milk<br>- Coles Frozen Berry mix<br><br> |
+| Lunch       | Something from uni probably                                                                                    |
+| Dinner      | **Salmon Salad**<br>- Canned salmon<br>- Coles mixed greens<br>- Olive oil<br>- lemon juice<br><br>            |
+|             |                                                                                                                |
 
 # Height Maxxing
 Based on this book: [[growth-translated-final_compress.pdf]]

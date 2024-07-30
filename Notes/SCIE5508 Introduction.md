@@ -5,7 +5,7 @@ Priority:
   - High
 Week: 1
 Lecture:
-  - 🟥
+  - 🟩
 Flashcards:
   - 🟥
 tags:
@@ -18,7 +18,79 @@ tags:
 
 ---
 # Key Takeaways
+## Lecture 1
 - Need to post a question on the discussion board weekly and attend the workshops to get attendance marks
+
+## Lecture 2
+### Two Key Motivations of Synthetic Biology
+#### Motivation I: Build to understand
+- Scientists break down biological systems to analyze parts within the system, this is a micro level approach to understanding how a biological system works. Alternatively, synthesis is using these analyzed parts and attempting to reconstruct the system and seeing if we are able to replicate the system - this is a macro approach to understanding how a system works.
+	- One such example of a micro approach is: Jacques Monod and Francois Jacob looked at Lac operon in E . coli, they found that genes are usually in off state and represses gene activity. This was the start of their understanding of gene circuitry - the influence of a repressor substance of inducer complex on gene transcription affects production of lactose (this was a small part of the lactose producing system but identified one factor which was in charge of lactose production)
+#### Motivation II: Build to improve & innovate
+- Engineers use understandings from parts (analyzed by scientists) to try and recreate improved and novel systems. Manipulation and creation of these systems include: Building synthetic circuits, Metabolic engineering, synthetic gene and genome synthesis, minimal cells & proto cells and Xenobiology
+	- One such example of motivation II is the construction of a genetic toggle switch in Escherichia coli. Scientists understand that E. coli uses two transcription factors to create GFP (cl-ts and lacl), these transcription factors produce repressors which repress on another. These repressors may be artificially induced into the system to controll the expression of repressors, which in turn controls the expression of GFP. Induction of heat into the system restricts the expression of the repressor produced by cl-ts, while induction of IPTG in the system restricts the expression of the repressor produced by lacl. This allows scientists / engineers to control GFP production.
+	- More advanced systems can be manipulated such as oscillatory networks - can serve as model systems for circadian rhythms
+### History of Synthetic Biology and Modules of Synthetic Biology
+#### Building Synthetic circuits / signaling circuits
+- construction of a genetic toggle switch in Escherichia coli. Scientists understand that E. coli uses two transcription factors to create GFP (cl-ts and lacl), these transcription factors produce repressors which repress on another. These repressors may be artificially induced into the system to controll the expression of repressors, which in turn controls the expression of GFP. Induction of heat into the system restricts the expression of the repressor produced by cl-ts, while induction of IPTG in the system restricts the expression of the repressor produced by lacl. This allows scientists / engineers to control GFP production.
+	- More advanced systems can be manipulated such as oscillatory networks - can serve as model systems for circadian rhythms
+#### Metabolic Engineering
+- Synthetic biology has enabled researchers to design and build complex synthetic circuits within cellular systems, allowing for unprecedented control and programming of biological processes. At the heart of this field is the ability to engineer genetic components, such as promoters, genes, and regulatory elements, and assemble them into integrated circuits that can perform specific functions. Just as electronic circuits are built from transistors, resistors, and other components, synthetic biologists construct genetic circuits using well-characterized biological "parts" that can be combined in modular ways. These parts may include promoters to control gene expression, coding sequences for proteins with desired activities, and regulatory elements like riboswitches or transcription factors that can respond to environmental signals. By carefully assembling these parts into circuits, researchers can program cells to sense inputs, make decisions, and produce desired outputs, much like an electronic circuit.
+	- ![](https://i.imgur.com/is0E6fR.png)In the top image, the researchers introduced the entire Artemisinin biosynthetic pathway directly from the plant Artemisia annua into E. coli. This allowed E. coli to produce artemisinin and related terpenoids through this plant-derived pathway.
+	  
+	  On the other hand, the bottom image shows the researchers engineering E. coli to utilize the mevalonate pathway, which is a different terpenoid biosynthesis route typically found in organisms like yeast. This heterologous mevalonate pathway was expressed in E. coli, in addition to the native DXP pathway.
+	  
+	  By having both the mevalonate pathway from yeast and the DXP pathway natively present in E. coli, the bacteria was able to more efficiently channel the carbon and energy resources towards the production of the desired terpenoid compounds. This multilayered metabolic engineering strategy likely provided more flexibility and higher flux through the overall terpenoid biosynthesis network.
+
+#### Synthetic gene and genome synthesis
+- Researchers leverage their ability to precisely engineer genetic circuits and pathways to program microorganisms for the production of valuable chemicals and biomolecules. Synthetic biologists can create microbial cell factories capable of efficiently synthesizing target compounds.
+	- Researches took the genetic coding (3 DNA fragments F1-F3) of the poliovirus, synthetically transcribed the fragments, assembled them onto a cDNA  and expressed the viral RNA from a T7 promoter. Results show that it is possible to synthesize an infectious agent by in vitro chemical-biochemical means solely by following instructions from a written sequence
+#### Minimal cells & Protocells
+- Minimal cells are built to try and replicate the simplest origins of life by creating the simplest possible living organic system
+	- Scientists encapsulated RNA in a lipid. Under high magnesium concentrations these lipids formed a fatty acid membrane, which mitigates destabilizing effect of Mg2+, allowing RNA templates to chemically copy itself inside of fatty acid vesicles.
+#### Xenobiology
+- The creation and engineering of alternative biochemistries that deviate from the natural biological systems found on Earth. Rather than solely working within the constraints of the canonical DNA-RNA-protein framework, xenobiologists seek to develop life forms that utilize novel genetic polymers, amino acids, and metabolic pathways.
+	1. Replication: The DNA molecule, which serves as the genetic material, is replicated using the standard A-T and C-G base pairing.
+	2. Transcription: The DNA is transcribed into RNA, which typically acts as the intermediate messenger molecule.
+	3. Translation: The RNA is then translated into proteins, the functional components that carry out the biological activities.
+	   
+	   This new base pair, represented by the artificial base pair in the image, is designed to be orthogonal to the natural DNA base pairing. The goal is to create a self-contained, genetically isolated system that cannot easily interact or exchange genetic material with naturally occurring organisms.
+	   
+	   By engineering this alternative genetic code, xenobiologists aim to develop novel life forms that utilize these non-natural nucleic acids and amino acids, potentially leading to the creation of organisms with unique capabilities or the ability to thrive in environments that are inaccessible to natural life.
+
+
+### Fundamental engineering principles underlying Synthetic Biology
+#### Abstraction
+- To make things simple
+	- Facilitate complex biological processes through analogy to electrical engineering 
+	- Think binary: genes in ON/OFF state
+	- Ignore unnecessary details
+#### Modularity
+- To make things modular
+	- Define modules as closed (insulated) sub-systems with specific input-output characteristics
+	- Ignore minor interactions (cross-talk) with other module
+#### Standardization
+- Establish commonly used annotations, cloning standards, laboratory procedures, measurement protocols, etc. 
+- Enable re-usability of well-characterized genetic material (=parts!) in different applications
+#### Modelling & Design
+ - Use mathematical models to describe biological function of parts, modules, etc.
+ - Design novel functions based on model prediction
+### The concept of the Design-Build-Test-Learn cycle
+#### Design
+#### Build
+#### Test
+#### Learn
+### Global challenges that Synthetic Biology seeks to address
+#### Biofuels and bioenergy
+#### Bio-based chemicals
+#### Biomaterials
+#### Bioremedation
+#### Biosensors
+#### Biomedicine - Diagnostics
+#### Food production
+#### Drugs and Vaccines
+#### Biomedicine - Therapeutics
+
 
 
 

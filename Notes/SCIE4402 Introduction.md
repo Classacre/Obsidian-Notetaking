@@ -5,7 +5,7 @@ Priority:
   - High
 Week: 1
 Lecture:
-  - 🟥
+  - 🟩
 Flashcards:
   - 🟥
 tags:
@@ -15,7 +15,7 @@ tags:
 - [ ] 
 ---
 # Unit Guide
-
+![[SCIE4402_unit_guide_2024_Sem2.pdf]]
 
 
 ---
@@ -28,3 +28,4 @@ tags:
 
 ---
 # References for SCIE4402 Introduction
+![[scie_4402_stats_slides_for_first_three_lectures_.pdf]]

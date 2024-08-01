@@ -5,7 +5,7 @@ Priority:
   - High
 Week: 2
 Lecture:
-  - 🟥
+  - 🟩
 Flashcards:
   - 🟥
 tags:

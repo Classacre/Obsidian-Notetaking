@@ -15,7 +15,7 @@ table without id file.link as Title, Status, Priority, Lecture, Flashcards
 from !"Templates"
 where Class = "University"
 where Status != "Working"
-where Status != "Done"
+where Status != "To do"
 sort choice(Priority = "High", "1", choice(Priority = "Medium", "2", choice(Priority = "Low", "3","4"))) asc
 sort choice(Status = "Edit", "1", choice(Status = "Outline", "2","3")) asc
 ```

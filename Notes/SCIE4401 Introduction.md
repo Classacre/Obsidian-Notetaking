@@ -12,8 +12,8 @@ tags:
   - "#SCIE4401"
 ---
 > Error generating daily quote
-- [ ] 📅 2024-07-22 Rank Papers for presentation [[SCIE4401 Presentation]]
-- [ ] 🛫 2024-07-30 Release of assignment
+- [x] 📅 2024-07-22 Rank Papers for presentation [[SCIE4401 Presentation]] ✅ 2024-08-01
+- [x] 🛫 2024-07-30 Release of assignment ✅ 2024-08-02
 ---
 # Timetable
 ![[Timetable SCIE4001 Lectures 2024 S2 v2.pdf]]
@@ -22,6 +22,8 @@ tags:
 # Assessment Information
 ![[Assesment overview.png]]
 <!--⚠️Imgur upload failed, check dev console-->
+![](https://i.imgur.com/NnSG8Id.png)
+
 
 ---
 # Notes for SCIE4401 Introduction
@@ -220,9 +222,7 @@ Forward genetics:
 ---
 
 # Flashcards for SCIE4401 Introduction
-What is forward genetics? :: Discovering the function of a gene by analysing the phenotypic consequences of a gene
 
-What is reverse genetics? :: Determining the genetic basis responsible for a phentoype
 
 
 ---

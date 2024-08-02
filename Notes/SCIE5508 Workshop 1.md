@@ -1,14 +1,16 @@
 ---
-Class: University
+Class:
+  - University
 Status: Working
 Priority:
   - High
-Week: 
+Week: 2
 Lecture:
   - 🟥
 Flashcards:
   - 🟥
 tags:
+  - SCIE5508
 ---
 > Error generating daily quote
 
@@ -16,9 +18,10 @@ tags:
 # Notes for SCIE5508 Workshop 1
 
 
----
-# Flashcards for SCIE5508 Workshop 1
+
 
 
 ---
 # References for SCIE5508 Workshop 1
+![[SCIE5508_workshop1.pptx]]
+![[SCIE5508_workshop1.pdf]]

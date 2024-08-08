@@ -13,9 +13,9 @@ tags:
 > Error generating daily quote
 
 # Timetable
-![[Unit Timetable 2024 S2.pdf]]
-![[Unit Timetable Overview 2024 S2.pdf]]
+![[Unit Timetable 2024 S2(1).pdf]]
 
+![[Unit Timetable Overview 2024 S2(1).pdf]]
 
 ---
 # Notes for GENE4002 Introduction

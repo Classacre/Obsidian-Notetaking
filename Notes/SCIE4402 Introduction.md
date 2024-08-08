@@ -20,11 +20,12 @@ tags:
 
 ---
 # Notes for SCIE4402 Introduction
+[[Lab Day 1]]
 
 
 ---
-# Flashcards for SCIE4402 Introduction
-
+# Introduction to R
+![[Introtext.pdf]]
 
 ---
 # References for SCIE4402 Introduction

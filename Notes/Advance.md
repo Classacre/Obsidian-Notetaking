@@ -16,6 +16,8 @@ share_updated: 2024-07-31T08:06:32+08:00
 # Education and Productivity
 [UWA Careers and Employment Awards](https://unihub.uwa.edu.au/s/careers-and-employability/workflows/detail/24)
 - Complete additional unit, info found in the following![[UWA-Placement-Induction-Program-Instructions-(May-2024).docx]]
+[Increase Bioinformatics Knowledge](https://www.combine.org.au/resources/)
+
 
 # Skin Routine
 ## Kojic Acid [HL](https://www.amazon.com.au/Brightening-Glowing-Moisturizing-Melasma-Coconut/dp/B071KNC9Q9/ref=srd_d_vsims_T2_d_sccl_3_2/355-0033083-0371277?pd_rd_w=tVpwv&content-id=amzn1.sym.669cc3a4-4f7d-48da-8f2e-f96037d88eee&pf_rd_p=669cc3a4-4f7d-48da-8f2e-f96037d88eee&pf_rd_r=JSPX7A09TSV4FZH0HKPQ&pd_rd_wg=Dt3Zk&pd_rd_r=675025b9-0e74-463b-a21e-b302f4fafc1c&pd_rd_i=B071KNC9Q9&psc=1)

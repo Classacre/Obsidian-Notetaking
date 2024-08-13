@@ -3,9 +3,9 @@ Class: University
 Status: Working
 Priority: High
 Week: 
-Lecture:
-  - 🟥
-Flashcards: 🟩
+Lecture: []
+Flashcards:
+  - 🟩
 tags:
   - SCIE4401
 ---

@@ -26,7 +26,6 @@ Phenotyping was done by comparing flowering and maturation times between WT and 
 The experiment suffers from various issues. One notable issue is the use of a single soybean variety. The American "soybean" may not be representative of other soybean varieties, greatly limiting the generalizability of the experiment. Additionally, this experiment primarily involves a single gene, E4, which may not always be the most prominent gene involved in flowering and maturity in other soybean variants - resulting in incomprehensive results. 
 
 Improvements to the experimental design such as using a control group with a non-targeting sgRNA could eliminate unforeseen off-target effects, making it difficult to determine whether the observed effects are due to E4 gene editing or off-target effects. Furthermore, the small sample size may lead to a sampling issue where significance may lead to false negatives or false positives - we are unable to detect true significant differences between the mutants and the WT.
-# 
 
 ---
 # References for SCIE4401 Assignment 1

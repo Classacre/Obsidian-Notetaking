@@ -1,8 +1,7 @@
 ---
 Class: University
 Status: Working
-Priority:
-  - High
+Priority: High
 Week: 
 Lecture:
   - 🟥

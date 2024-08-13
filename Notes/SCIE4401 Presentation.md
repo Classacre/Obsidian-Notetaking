@@ -1,9 +1,7 @@
 ---
-Class:
-  - University
+Class: University
 Status: Working
-Priority:
-  - High
+Priority: High
 tags:
 ---
 # Notes

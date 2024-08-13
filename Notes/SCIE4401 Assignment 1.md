@@ -3,7 +3,7 @@ Class: University
 Status: Working
 Priority: High
 Week: 
-Lecture: []
+Lecture: 🟩
 Flashcards:
   - 🟩
 tags:

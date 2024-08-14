@@ -4,7 +4,7 @@ Priority: Medium
 Status: Working
 tags: 
 share_link: https://share.note.sx/3c6l95gd#EPHyaVBeDhT6o4OuVfn5ORdFaoFRfA7Fu+KrAGCwwRA
-share_updated: 2024-07-31T08:06:32+08:00
+share_updated: 2024-08-14T21:56:05+08:00
 ---
 > > [!quote] The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it.
 > — Michelangelo

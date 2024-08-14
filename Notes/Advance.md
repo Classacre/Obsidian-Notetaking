@@ -28,13 +28,29 @@ share_updated: 2024-07-31T08:06:32+08:00
 
 # Gym Routine
 ## Workout Routine
-| *Monday (Push)*                 | *Tuesday (Pull)*         | *Wednesday (Legs)*   | *Thursday (Push)*                | *Friday (Pull)*              | *Saturday (Rest)* | *Sunday (Legs)*                 |
-| ------------------------------- | ------------------------ | -------------------- | -------------------------------- | ---------------------------- | ----------------- | ------------------------------- |
-| Bench Press (4 x 10)            | Deadlift (4 x 10)        | Squats (4 x 10)      | Dumbbell Shoulder Press (3 x 10) | Machine Chest Press (3 x 10) |                   | Deadlifts (lighter) (3 x 10)    |
-| Overhead Press (4 x 10)         | Pull-Ups (3 x 10)        | Leg Press (3 x 10)   | Cable Flys (3 x 10)              | Arnold Press: (3 x 10)       |                   | Front Squats (3 x 10)           |
-| Incline Dumbbell Press (3 x 10) | Bent over rows  (3 x 10) | Lunges (3 x 10)      | Skull Crushers (3 x 10)          | Lat Pulldown (3 x 10)        |                   | Stiff-Legged Deadlifts (3 x 10) |
-| Tricep Dips (3 x 10)            | Face Pulls (3 x 10)      | Leg Curls (3 x 10)   | Seated Cable Rows (3 x 10)       | Barbell Rows (4 x 10)        |                   | Leg Extensions (3 x 10)         |
-| Lateral Raises (3 x 10)         | Bicep Curls (3 x 10)     | Calf Raises (4 x 12) | Hammer Curls (3 x 10)            | Reverse Flys (3 x 10)        |                   | Calf Raises (3 x 15)            |
+
+**Terminology**
+- **Feeder Sets**: These are “ramp up” sets to get the blood flowing, gauging what weight
+you’re going to end up using for working sets, the sets that you’re going intense on. The
+further you are into your lift, the less feeders you do because you’re already warm.
+	- An example of how to set up feeders: Say you’re working set is 225, start with the first feeder at the bar for 12-15 reps, 2nd feeder at 135 for 8-12 reps, 3rd feeder at 185 for 6-8 reps, then start the working sets.
+- **Working Sets**: These are the sets where you’re using the highest weight you’re going to
+do for the exercise that day for your intended reps (This is gauged using the feeder sets)
+- **Partials**: Partials are repetitions that do NOT go through the full range of motion. These
+should only be done after repetitions cannot be completed through the full range,
+occurring at the end of the set. (With the sets that go to failure + partials, try to finish in
+the 8-12 rep range)
+- **Rest Time**: For rest, I recommend doing a 3-5 min rest for compound movements, and 2-3 minutes on anything other movements that isolate more.
+
+**BASED ON ARNOLD SPLIT IN ADAMS BOOK:**
+
+| *Monday (Chest and Back)*                                             | *Tuesday (Pull)*         | *Wednesday (Legs)*   | *Thursday (Push)*                | *Friday (Pull)*              | *Saturday (Rest)* | *Sunday (Legs)*                 |
+| --------------------------------------------------------------------- | ------------------------ | -------------------- | -------------------------------- | ---------------------------- | ----------------- | ------------------------------- |
+| **Barbell Bench Press**<br>3 feeders<br>3 working sets(6 - 8)<br>     | Deadlift (4 x 10)        | Squats (4 x 10)      | Dumbbell Shoulder Press (3 x 10) | Machine Chest Press (3 x 10) |                   | Deadlifts (lighter) (3 x 10)    |
+| **Incline Dumbell Bench Press**<br>1 feeder<br>3 working sets (10-12) | Pull-Ups (3 x 10)        | Leg Press (3 x 10)   | Cable Flys (3 x 10)              | Arnold Press: (3 x 10)       |                   | Front Squats (3 x 10)           |
+| Incline Dumbbell Press (3 x 10)                                       | Bent over rows  (3 x 10) | Lunges (3 x 10)      | Skull Crushers (3 x 10)          | Lat Pulldown (3 x 10)        |                   | Stiff-Legged Deadlifts (3 x 10) |
+| Tricep Dips (3 x 10)                                                  | Face Pulls (3 x 10)      | Leg Curls (3 x 10)   | Seated Cable Rows (3 x 10)       | Barbell Rows (4 x 10)        |                   | Leg Extensions (3 x 10)         |
+| Lateral Raises (3 x 10)                                               | Bicep Curls (3 x 10)     | Calf Raises (4 x 12) | Hammer Curls (3 x 10)            | Reverse Flys (3 x 10)        |                   | Calf Raises (3 x 15)            |
 ## Macros
 - **Total Daily Energy Expenditure (TDEE)**: Approximately 2728 calories per day.
 - **Protein**: 130 grams per day (520 calories).

@@ -11,7 +11,7 @@ tags:
 ![[BioInfina Logo Only.png]]
 
 # BioInfina / Genomic GPT
-[[AI Bioinformatics Example]]
+![[AI Bioinformatics Example]]
 
 ---
 # References

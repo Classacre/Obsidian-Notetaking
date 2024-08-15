@@ -1,0 +1,9 @@
+## Conversational AI System for Genetic Data Analysis in Agriculture
+
+The aim of this project is to revolutionize how farmers interact with their genetic data by leveraging the power of a Large Language Model (LLM), such as ChatGPT. This system will serve as an intuitive front end, enabling farmers to ask questions in natural language about their genetic data. The LLM will translate these questions into queries, run them on the back end, and relay the interpreted data back to the farmers in an easily understandable format. This approach will enhance decision-making processes in agriculture, particularly in breeding and livestock management.
+
+Objectives Enhance Data Accessibility: Enable farmers to access and interpret complex genetic data effortlessly through natural language interactions. Improve Decision-Making: Provide actionable insights based on genetic data to help farmers make informed decisions about breeding, animal health, and productivity. Streamline Operations: Reduce the time and effort required for farmers to analyze genetic data, allowing them to focus on other critical aspects of farm management.
+
+## Key Features
+
+Natural Language Interface: Farmers can ask questions in plain language, such as "Which animal will produce the best lean meat offspring " or "Which sires have produced the most offspring ". Automated Query Translation: The LLM translates natural language questions into specific queries that can be executed on the back end. Data Interpretation and Presentation: The system interprets the results of the queries and presents them in a clear, concise manner that is easy for farmers to understand. Personalized Insights: Provide recommendations and insights tailored to the specific genetic profiles and objectives of each farm.

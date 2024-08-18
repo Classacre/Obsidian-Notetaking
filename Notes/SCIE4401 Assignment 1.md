@@ -1,6 +1,6 @@
 ---
 Class: University
-Status: Working
+Status: Done
 Priority: High
 Week: 
 Lecture: 🟩

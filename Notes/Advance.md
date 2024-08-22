@@ -69,12 +69,12 @@ the 8-12 rep range)
 |               | Moderate to no caffeine consumption |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                 |
 
 
-| Time of day | Ingredients (Acne Friendly)                                                                                    |
-| ----------- | -------------------------------------------------------------------------------------------------------------- |
-| Breakfast   | **Oats and Berries**<br>- Uncle Tobys Oats / any other brand<br>- Oat milk<br>- Coles Frozen Berry mix<br><br> |
-| Lunch       | Something from uni probably                                                                                    |
-| Dinner      | **Salmon Salad**<br>- Canned salmon<br>- Coles mixed greens<br>- Olive oil<br>- lemon juice<br><br>            |
-|             |                                                                                                                |
+| Time of day      | Ingredients (Acne Friendly)                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Breakfast        | **Oats and Berries**<br>- Uncle Tobys Oats / any other brand<br>- Oat milk<br>- Coles Frozen Berry mix<br><br>                                                                       |
+| Lunch (Post Gym) | MyMuscleChef / Anything high in protein<br>- Minimum 30g of protein<br>Cocobella (coconut drink, ussually chocolate flavored)<br>- Helps replenish electrolytes, naturally has sugar |
+| Dinner           | **Salmon Salad**<br>- Canned salmon<br>- Coles mixed greens<br>- Olive oil<br>- lemon juice<br><br>                                                                                  |
+|                  |                                                                                                                                                                                      |
 
 # Height Maxxing
 Based on this book: [[growth-translated-final_compress.pdf]]

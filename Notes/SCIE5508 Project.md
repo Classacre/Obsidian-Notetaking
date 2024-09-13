@@ -56,6 +56,8 @@ The scaling issue:
 How to choose the best promoter:
 [You cant? I guess....? What is Heng on about?](https://2012.igem.org/Team:TU_Munich/Project/Constitutive_Promoter)
 
+[[SCIE5508 Project pathway.canvas|SCIE5508 Project pathway]]
+
 
 
 

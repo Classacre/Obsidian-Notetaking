@@ -218,7 +218,7 @@ the 8-12 rep range)
 |                  |                                                                                                                                                                                      |
 
 ## Increase Testosterone Naturally
-[[Increase Turkesterone Naturally an AI Assisted Study]]
+![[Increase Turkesterone Naturally an AI Assisted Study]]
 
 
 # Height Maxxing

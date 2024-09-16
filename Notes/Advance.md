@@ -29,7 +29,6 @@ share_updated: 2024-08-14T21:56:05+08:00
 
 # Gym Routine
 ## Workout Routine
-
 **Terminology**
 - **Feeder Sets**: These are “ramp up” sets to get the blood flowing, gauging what weight
 you’re going to end up using for working sets, the sets that you’re going intense on. The
@@ -43,15 +42,157 @@ occurring at the end of the set. (With the sets that go to failure + partials, t
 the 8-12 rep range)
 - **Rest Time**: For rest, I recommend doing a 3-5 min rest for compound movements, and 2-3 minutes on anything other movements that isolate more.
 
-**BASED ON ARNOLD SPLIT IN ADAMS BOOK:**
+### Day 1: Chest & Biceps
 
-| *Monday (Chest and Back)*                                             | *Tuesday (Pull)*         | *Wednesday (Legs)*   | *Thursday (Push)*                | *Friday (Pull)*              | *Saturday (Rest)* | *Sunday (Legs)*                 |
-| --------------------------------------------------------------------- | ------------------------ | -------------------- | -------------------------------- | ---------------------------- | ----------------- | ------------------------------- |
-| **Barbell Bench Press**<br>3 feeders<br>3 working sets(6 - 8)<br>     | Deadlift (4 x 10)        | Squats (4 x 10)      | Dumbbell Shoulder Press (3 x 10) | Machine Chest Press (3 x 10) |                   | Deadlifts (lighter) (3 x 10)    |
-| **Incline Dumbell Bench Press**<br>1 feeder<br>3 working sets (10-12) | Pull-Ups (3 x 10)        | Leg Press (3 x 10)   | Cable Flys (3 x 10)              | Arnold Press: (3 x 10)       |                   | Front Squats (3 x 10)           |
-| Incline Dumbbell Press (3 x 10)                                       | Bent over rows  (3 x 10) | Lunges (3 x 10)      | Skull Crushers (3 x 10)          | Lat Pulldown (3 x 10)        |                   | Stiff-Legged Deadlifts (3 x 10) |
-| Tricep Dips (3 x 10)                                                  | Face Pulls (3 x 10)      | Leg Curls (3 x 10)   | Seated Cable Rows (3 x 10)       | Barbell Rows (4 x 10)        |                   | Leg Extensions (3 x 10)         |
-| Lateral Raises (3 x 10)                                               | Bicep Curls (3 x 10)     | Calf Raises (4 x 12) | Hammer Curls (3 x 10)            | Reverse Flys (3 x 10)        |                   | Calf Raises (3 x 15)            |
+#### First Exercise: Barbell Bench Press (Works entire chest)
+- 3 feeders into 2-3 working sets of 6-8
+- RPE 8 without spotter, 9-9.5 with
+- Substitute exercise(s):
+	- Dumbbell Bench Press
+	- Neutral Hammer Press
+
+#### Second Exercise: Incline Dumbbell Bench Press (Works upper chest)
+- 1 feeder into 3 working sets of 10-12
+- RPE 9
+- Substitute exercise(s):
+	- Incline Smith Machine Press
+	- Incline Hammer Press
+
+#### Third Exercise: Mid-set Chest Flys right into Decline Chest Flys (Works entire chest)
+- 3 sets all to failure + partials on the decline chest flys
+- Substitute exercise(s): *Only for Mid, Still do Decline
+	- Pec Deck
+	- Incline Dumbbell Flyes
+
+#### Fourth Exercise: EZ Bar Preacher Curls (Works short head of bicep)
+- 3 sets all to failure + partials
+- Substitute exercise(s):
+	- Dumbbell Preacher Curls
+	- Seated Incline Curls
+
+#### Fifth Exercise: Alternating Standing Bicep Curls (Works all of your bicep)
+- 2 sets all to failure + partials
+- Substitute exercise(s):
+	- Cable Straight Bar Curls
+	- Cable Single Hand D Grip Curls
+
+---
+
+### Day 2: Back & Triceps
+
+#### First Exercise: Barbell Row (Works entire back, thickness)
+- 3 feeders into 3-4 working sets of 6-8
+- RPE 8.5-9
+- Substitute exercise(s):
+	- Dumbbell Rows
+	- Hammer Strength Plate Loaded Row
+	- Smith Machine Row
+
+#### Second Exercise: Seated Neutral Grip Chest-supported Rows (Works lower lats)
+- 1 feeder into 3 sets all to failure + partials
+- Substitute exercise(s):
+	- Seated Cable Rows
+	- Incline Bench Dumbbell Rows
+
+#### Third Exercise: Lat Pulldowns (Works lats and mid back, width)
+- 3 sets all to failure + partials
+- Substitute exercise(s):
+	- Single hand lat pulldowns with D-Grip
+	- Lat Pullovers
+
+#### Fourth Exercise: Single-hand Lat Pulldowns (JPG’s) (Works lats, width)
+- 2 sets all to failure + partials
+- Substitute exercise(s):
+	- None, these are too good not to have in every back day
+
+#### Fifth Exercise: EZ Bar Incline Bench Skull-Crushers (Works long head of the tricep)
+- 2 feeders into 3 working sets all to failure
+- Substitute exercise(s):
+	- Incline Dumbbell Skull Crushers
+	- JM Press
+	- Overhead Tricep Extensions
+
+#### Sixth Exercise: Straight Bar Tricep Pushdowns (Works entire tricep)
+- 1 feeder into 3 sets all to failure + partials
+- Substitute exercise(s):
+	- Tricep Rope Extensions
+
+---
+
+### Day 3: Legs
+
+#### First Exercise: Barbell Squats (Works hamstrings, glutes, quads)
+- 3-4 feeder sets into 3 working sets of 8-12
+- RPE 9 with safety racks
+- Substitute exercise(s):
+	- Smith Machine Squats (Can be normal or heel elevated)
+	- Heel Elevated Barbell Squats
+
+#### Second Exercise: Hack Squats (Works quads)
+- 1 feeder into 2 working sets of 8-10
+- RPE 9.5
+- Substitute exercise(s):
+	- Leg Press
+	- Bulgarian Split Squats
+
+#### Third Exercise: Dumbbell Romanian Deadlifts (Works hamstrings)
+- 1 feeder into 2 working sets of 8-10
+- RPE 9.5
+- Substitute exercise(s):
+	- Barbell RDLS
+
+#### Fourth Exercise: Leg Extensions (Works quads)
+- 2 sets all to failure + partials
+- Substitute exercise(s):
+	- Don’t, these are too staple
+
+#### Fifth Exercise: Seated Hamstring Curls (Works hamstrings)
+- 2 sets all to failure + partials
+- Substitute exercise(s):
+	- Lying Hamstring Curls
+	- Standing Leg Curls
+
+#### Sixth Exercise: Seated Calf Raises (Works calves)
+- 4 sets all to failure + partials
+- Substitute exercise(s):
+	- If you want, add tibia extensions in here too
+	- If not, either do these seated or standing, whichever gives you the best contraction
+
+---
+
+### Day 4: Shoulders
+
+#### First Exercise: Reverse Pec Deck (Works rear delt)
+- 3 sets to get the blood moving, close to failure
+- Substitute exercise(s):
+	- Rear Delts on cable (Set to shoulder and do it like a reverse pec deck, but pull with elbows slightly bent)
+	- Face Pulls
+
+#### Second Exercise: Dumbbell Overhead Press (Works front delt)
+- 3 feeders into 3 top sets of 6-10 reps
+- RPE 9
+- Substitute exercise(s):
+	- Barbell Overhead Press
+	- Smith Machine Overhead Press
+
+#### Third Exercise: Dumbbell Lateral Raises (Works medial delt)
+- 1 feeder into 4 sets all to failure + partials
+- Substitute exercise(s):
+	- Cable Lateral Raises
+	- Machine Laterals (If Medial Delts are a strong point, do front raises)
+
+#### Fourth Exercise: Bent over dumbbell lateral raises (Works rear delt)
+- 2 sets all to failure + partials
+- Substitute exercise(s):
+	- Reverse Pec Deck
+	- Rear Delts on cable (Set to shoulder and do it like a reverse pec deck, but pull with elbows slightly bent)
+	- Face Pulls
+
+---
+###  Day 5: Rest
+- Repeat
+--- 
+
 ## Macros
 - **Total Daily Energy Expenditure (TDEE)**: Approximately 2728 calories per day.
 - **Protein**: 130 grams per day (520 calories).
@@ -75,6 +216,10 @@ the 8-12 rep range)
 | Lunch (Post Gym) | MyMuscleChef / Anything high in protein<br>- Minimum 30g of protein<br>Cocobella (coconut drink, ussually chocolate flavored)<br>- Helps replenish electrolytes, naturally has sugar |
 | Dinner           | **Salmon Salad**<br>- Canned salmon<br>- Coles mixed greens<br>- Olive oil<br>- lemon juice<br><br>                                                                                  |
 |                  |                                                                                                                                                                                      |
+
+## Increase Testosterone Naturally
+[[Increase Turkesterone Naturally an AI Assisted Study]]
+
 
 # Height Maxxing
 Based on this book: [[growth-translated-final_compress.pdf]]

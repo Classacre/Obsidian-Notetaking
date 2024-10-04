@@ -31,7 +31,7 @@ Idea 1: Producing Astaxanthin using Yeast
 	- Remove redundant nucleotides (nucleotides which dont belong to the promoter):
 		- Click on the promoter, copy it (ctrl+c) (if it says its reversed, reverse it)
 		- Paste the reversed into the directory
-		- Convert to promoter (how the hell did he do that????)
+		- Convert to promoter
 		- Label the type as Promoter
 		- Extract terminator
 			- Zoom in to the promoter (go after the stop codon), show GC content to see promoter and terminator region (GC content drops at promoter and terminator region)

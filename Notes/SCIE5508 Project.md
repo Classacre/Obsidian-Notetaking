@@ -54,7 +54,7 @@ The scaling issue:
 - Imagine in big tank, 1 or 2 cells have metabolic genes mutated, no need to make metabolite, they have growth advantage and take over majority of tank - Heng mentioned something about how to counteract this, spoke too fast, dont know what he said.
 
 How to choose the best promoter:
-[You cant? I guess....? What is Heng on about?](https://2012.igem.org/Team:TU_Munich/Project/Constitutive_Promoter)
+[You cant? I guess....?](https://2012.igem.org/Team:TU_Munich/Project/Constitutive_Promoter)
 
 [[SCIE5508 Project pathway.canvas|SCIE5508 Project pathway]]
 

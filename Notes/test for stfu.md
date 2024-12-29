@@ -1,4 +1,8 @@
 ---
-Date of Creation: 
+Date: 
+Gym: 
+Observations: 
+Mission Report: 
 tags:
 ---
+

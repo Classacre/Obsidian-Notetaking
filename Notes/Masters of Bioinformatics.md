@@ -55,3 +55,15 @@ Ai and Data in health person (Yuliya): https://www.telethonkids.org.au/contact-u
 | 2    | Semester 1 (Swapable) | [GENE4001](https://handbooks.uwa.edu.au/unitdetails?code=GENE4001)                 | Advanced Studies in Genetics and Genomics                  | S1           |
 | 2    | Semester 1            | [SCIE5003](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5003)                 | Advanced Bioinformatics and Data Analysis for Genomics     | S1           |
 | 2    | Semester 1            | [SCIE5574](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5574)                 | Dissertation Part 4                                        | S1           |
+
+## Study Plan V3
+| Year | Credit     | Coursework and Dissertation                                                        | Name                                                       | Availability |
+| ---- | ---------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------ |
+| 1    | Semester 2 | [GENE4002](https://handbooks.uwa.edu.au/coursedetails?code=70550#course-structure) | Integrated Topics in Genetics I                            | S2           |
+| 1    | Semester 2 | [SCIE4001](https://handbooks.uwa.edu.au/unitdetails?code=SCIE4001)                 | Collecting, Analysing and Interpreting Big Data in Biology | S2           |
+| 1    | Semester 2 | [SCIE4402](https://handbooks.uwa.edu.au/unitdetails?code=SCIE4402)                 | Data Management and Analysis in the Natural Sciences       | S2           |
+| 1    | Semester 2 | [SCIE5508](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5508)                 | Synthetic Biology: Solving Global Challenges               | S2           |
+| 1    | Semester 1 |                                                                                    |                                                            |              |
+| 1    | Semester 1 |                                                                                    |                                                            |              |
+| 1    | Semester 1 |                                                                                    |                                                            |              |
+| 1    | Semester 1 |                                                                                    |                                                            |              |

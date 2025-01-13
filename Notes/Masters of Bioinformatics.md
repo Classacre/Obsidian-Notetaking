@@ -63,7 +63,12 @@ Ai and Data in health person (Yuliya): https://www.telethonkids.org.au/contact-u
 | 1    | Semester 2 | [SCIE4001](https://handbooks.uwa.edu.au/unitdetails?code=SCIE4001)                 | Collecting, Analysing and Interpreting Big Data in Biology | S2           |
 | 1    | Semester 2 | [SCIE4402](https://handbooks.uwa.edu.au/unitdetails?code=SCIE4402)                 | Data Management and Analysis in the Natural Sciences       | S2           |
 | 1    | Semester 2 | [SCIE5508](https://handbooks.uwa.edu.au/unitdetails?code=SCIE5508)                 | Synthetic Biology: Solving Global Challenges               | S2           |
-| 1    | Semester 1 |                                                                                    |                                                            |              |
-| 1    | Semester 1 |                                                                                    |                                                            |              |
-| 1    | Semester 1 |                                                                                    |                                                            |              |
-| 1    | Semester 1 |                                                                                    |                                                            |              |
+| 1    | Semester 1 | GENE4001                                                                           | Advanced Studies in Genetics and Genomics                  | S1           |
+| 1    | Semester 1 | GENE5001                                                                           | Advanced Genomics Techniques                               | S1           |
+| 1    | Semester 1 | SCIE5003                                                                           | Advanced Bioinformatics and Data Analysis for Genomics     | S1           |
+| 1    | Semester 1 | SCIE5571                                                                           | Dissertation Part 1                                        | S1/S2        |
+| 2    | Semester 2 |                                                                                    | Dissertation Part 2                                        | S1/S2        |
+| 2    | Semester 2 |                                                                                    | Dissertation Part 3                                        | S1/S2        |
+| 2    | Semester 2 |                                                                                    | Dissertation Part 4                                        | S1/S2        |
+| 2    | Semester 2 | SCIE4002                                                                           | Bioinformatics and Data Analysis for Genomics              | S2           |
+| 2    | Overload   | SCIE5002                                                                           | Human Evolutionary Biology                                 | S2           |

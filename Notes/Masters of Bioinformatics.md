@@ -66,9 +66,9 @@ Ai and Data in health person (Yuliya): https://www.telethonkids.org.au/contact-u
 | 1    | Semester 1 | GENE4001                                                                           | Advanced Studies in Genetics and Genomics                  | S1           |
 | 1    | Semester 1 | GENE5001                                                                           | Advanced Genomics Techniques                               | S1           |
 | 1    | Semester 1 | SCIE5003                                                                           | Advanced Bioinformatics and Data Analysis for Genomics     | S1           |
-| 1    | Semester 1 | SCIE5571                                                                           | Dissertation Part 1                                        | S1/S2        |
+| 1    | Semester 1 | GENE4003                                                                           | Integrated Topics in Genetics I                            | S1/S2        |
 | 2    | Semester 2 |                                                                                    | Dissertation Part 2                                        | S1/S2        |
 | 2    | Semester 2 |                                                                                    | Dissertation Part 3                                        | S1/S2        |
 | 2    | Semester 2 |                                                                                    | Dissertation Part 4                                        | S1/S2        |
-| 2    | Semester 2 | SCIE4002                                                                           | Bioinformatics and Data Analysis for Genomics              | S2           |
-| 2    | Overload   | SCIE5002                                                                           | Human Evolutionary Biology                                 | S2           |
+| 2    | Overload   | SCIE4002                                                                           | Bioinformatics and Data Analysis for Genomics              | S2           |
+| 2    | Overload?  | SCIE5002                                                                           | Human Evolutionary Biology                                 | S2           |

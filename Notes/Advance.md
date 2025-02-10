@@ -10,8 +10,8 @@ share_updated: 2024-08-14T21:56:05+08:00
 > — Michelangelo
 
 # To-do
-- [ ] 🔽 Enroll and complete pre placement unit
-- [ ] Find Volunteering role for Careers and employment award
+- [x] 🔽 Enroll and complete pre placement unit ✅ 2025-02-05
+- [x] Find Volunteering role for Careers and employment award ✅ 2025-02-05
 ---
 # Education and Productivity
 [UWA Careers and Employment Awards](https://unihub.uwa.edu.au/s/careers-and-employability/workflows/detail/24)

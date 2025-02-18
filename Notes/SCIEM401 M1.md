@@ -1,12 +1,11 @@
 ---
 Class: University
-Status: Working
+Status: Done
 Priority: High
 Week: 1
 Lecture:
-  - 🟥
-Flashcards:
-  - 🟥
+  - 🟩
+Flashcards: 🟩
 tags:
   - SCIEM401
 ---

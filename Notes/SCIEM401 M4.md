@@ -1,0 +1,1 @@
+Workflow for gene analysis goes as follows

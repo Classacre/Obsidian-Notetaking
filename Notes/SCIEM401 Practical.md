@@ -96,3 +96,8 @@ sed -i s/assembly_pilon/final/ Av.cp.final.fasta
 tadpole.sh in1=Av_R1.cp.trimmed.fastq in2=Av_R2.cp.trimmed.fastq out=Av.contigs.fa k=75 mincr=20 overwrite=true
 ```
 
+
+
+
+# Workflow for Annotating The Gene
+![[Annotation worksheet.txt]]

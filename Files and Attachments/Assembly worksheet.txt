@@ -1,0 +1,161 @@
+# HOW TO READ THIS WORKSHEET
+
+# All lines starting with "#" are comments, all lines without "#" are commands
+# Where several lines without "#" are grouped together they should all be run at once (by pasting the whole block into your terminal)
+
+# quality control
+
+sourcedir=/mnt/s-ws/everyone/SCIEM401/Module_4_Assembly
+mkdir untrimmedq
+fastqc -o untrimmedq -f fastq $sourcedir/Av_R1.cp.fastq $sourcedir/Av_R2.cp.fastq
+
+# Download the fastqc output to your PC to view the .html files
+
+# Trim using bbduk.sh from the bbmap package (https://sourceforge.net/projects/bbmap/)
+
+sourcedir=/mnt/s-ws/everyone/SCIEM401/Module_4_Assembly
+bbduk.sh in1=$sourcedir/Av_R1.cp.fastq in2=$sourcedir/Av_R2.cp.fastq ref=/mnt/s-ws/everyone/bbmap/resources/adapters.fa  ktrim=r k=23 mink=11 hdist=1 tpe tbo ftm=5 out1=Av_R1.cp.trimmed.fastq out2=Av_R2.cp.trimmed.fastq
+
+# Check the output of bbduk.sh on your terminal to see how many reads were processed and trimmed
+
+# run fastqc again on the trimmed files
+
+mkdir trimmedq
+fastqc -o trimmedq -f fastq Av_R1.cp.trimmed.fastq Av_R2.cp.trimmed.fastq
+
+# Download the fastqc output to your PC to view the .html files
+# What's changed?
+
+# The bbmap package includes a basic assembler called Tadpole
+# Tadpole is useful for quickly investigating a dataset and finding suitable parameters for assembly
+# First run Tadpole with no inputs to get a brief view of all the options available
+
+tadpole.sh
+
+# Now run Tadpole on your trimmed reads
+# Here we are setting two key parameters:
+# k, the kmer length
+# mincr, the minimum kmer depth
+
+tadpole.sh in1=Av_R1.cp.trimmed.fastq in2=Av_R2.cp.trimmed.fastq out=Av.contigs.fa k=75 mincr=20 overwrite=true
+
+# The terminal output from Tadpole includes some useful information, such as the number of contigs (and scaffolds) generated, their total length, and their size distribution.
+# The sequence complexity of the Aldrovanda vesiculosa chloroplast genome should be about 116 kb, so the total scaffold length should approach this figure.
+# Ideally, we want as few scaffolds as possible.
+
+# Try running Tadpole again with different k (I suggest between 30 and 120) and mincr (I suggest between 2 and 50) values
+# What happens to the total scaffold length and the number of scaffolds as you increase k?
+# What happens to the total scaffold length and the number of scaffolds as you increase mincr?
+# Can you find more optimal k and mincr values than the ones we started with?
+
+# Assemble with Spades
+# Spades is an assembler which has some extra features compared with Tadpole and it will generally construct more complete assemblies
+# First run Spades without input to see the options available
+
+spades
+
+# Now run Spades with your trimmed reads
+# Spades will choose it's own kmer lengths if you don't give your preferences
+# '--cov-cutoff' is the equivalent of 'mincr' for Tadpole
+
+spades -o spades -1 Av_R1.cp.trimmed.fastq -2 Av_R2.cp.trimmed.fastq --cov-cutoff 20
+
+# Spades generates lots of different output files, but the most important is the spades/contigs.fasta file that contains the sequences of the contigs
+# You can get useful info on these contigs using grep to view the sequence headers
+
+grep ">" spades/contigs.fasta
+
+# You should see headers such as '>NODE_1_length_75705_cov_135.824933'
+# The length is in bp and the 'cov' value is the average kmer depth for the contig.
+# Spades should have produced fewer but longer contigs than Tadpole, but still cannot produce a single scaffold encompassing the whole genome.
+# This is because the Aldrovanda chloroplast genome contains repeats that are longer than the individual sequencing reads.
+# Additional information is needed to resolve these.
+
+# Assemble with GetOrganelle
+# As its name suggests, GetOrganelle is specifically designed to assemble organelle (chloroplast and mitochondrial) genomes.
+# In lieu of experimental data for resolving long repeats, it uses expert knowledge on the typical structure of these genomes.
+# GetOrganelle uses Spades to generate the assemblies that it attempts to interpret.
+
+/mnt/s-ws/everyone/GetOrganelle/get_organelle_from_reads.py -1 Av_R1.cp.trimmed.fastq -2 Av_R2.cp.trimmed.fastq -t 1 -o Av_GetOrganelle -F embplant_pt -R 15 -k 21,45,65,85,105,125
+
+# In the Av_GetOrganelle output directory, GetOrganelle should have generated multiple files, including 6 .fasta files with alternative options for the assembled chloroplast genome
+# To see why, copy extended_K125.assembly_graph.fastg.extend-embplant_pt-embplant_mt.fastg to your PC and view the file with Bandage (download from https://rrwick.github.io/Bandage/)
+# Run Bandage
+# File->Load graph select your .fastg file
+# In the left panel in the Node labels section click the Name, Length and Read depth tick boxes
+# Set the Font as small as possible
+# Click the 'Draw graph' button in the left panel
+# Adjust the Scope to retain only the main graph (e.g. by adjusting the read depth range)
+
+# You can view the paths through the graph that GetOrganelle chose for each option by viewing the sequence headers in the fasta files
+
+grep ">" Av_GetOrganelle/*.fasta
+
+# Note how the numbers of times each segment in the graph appears in the path correlates with the read depth; most segments are present once, some twice and one three times.
+# These segments present twice or three times are repeats in the genome. As these repeats are longer than the sequencing reads, the assembler can't be certain of how they are connected in the genome.
+# If recombination between the repeats occurs in vivo, it is possible that all 6 of these alternate arrangements exist
+# However, in this case option 2 (embplant_pt.K125.complete.graph1.2.path_sequence.fasta) is the 'standard' configuration that matches how chloroplast genomes are usually presented.
+
+# keep and rename your chosen assembly
+
+cp Av_GetOrganelle/embplant_pt.K125.complete.graph1.2.path_sequence.fasta Av.cp.assembly.fasta
+
+# and alter the name of the sequence in the header to match the file name to make things easier in later modules
+# sed is a programmable text editor; here we are substituting everything after the '>' in the fasta header with 'Av.cp.assembly'
+
+sed -i -E 's/>.+/>Av.cp.assembly/' Av.cp.assembly.fasta
+
+# The next step is to verify your assembly
+# To do this, we are going to map the sequencing reads used to make the assembly to your assembled sequence.
+# If the assembly is correct, they should match perfectly.
+# We are going to use bbmap (https://sourceforge.net/projects/bbmap/) to do the mapping
+# bbmap will produce two output files, a .bam file which lists where in the genome each read maps, and a coverage file with the read depth at each genome position
+# You will learn more about read mapping in the next module.
+
+bbmap.sh in1=Av_R1.cp.trimmed.fastq in2=Av_R2.cp.trimmed.fastq ref=Av.cp.assembly.fasta ambiguous=random mappedonly out=Av.bam basecov=read_coverage.txt
+
+# sort the .bam file with samtools
+
+samtools sort -T tmp -o Av.sorted.bam Av.bam
+samtools index Av.sorted.bam
+
+# We can plot the read coverage
+# The read_coverage.txt file is a simple tab-delimited file that you can download to your PC and plot with Excel
+# Alternatively, you can use gnuplot on the Nimbus server
+
+gnuplot
+
+#at the gnuplot prompt
+
+set terminal svg
+set output "read_coverage.svg"
+plot 'read_coverage.txt' using 3 with lines
+quit
+
+# Download read_coverage.svg to your PC to visualise the plot (any browser should be able to open the svg file)
+# you should see roughly even read coverage across the genome, with regions of zero or near-zero coverage
+
+# If you want, you can visualise the mapped reads
+# Download IGV from https://software.broadinstitute.org/software/igv/download
+# download 'Av.cp.assembly.fasta', 'Av.sorted.bam' and 'Av.sorted.bam.bai' from the Nimbus server
+# Load 'Av.cp.assembly.fasta' into IGV (Genomes->Load Genome from File...)
+# Load 'Av.sorted.bam' into IGV (File->Load from File...)
+
+# Rather than manually verifying the assembly, we can automate the process with the software Pilon
+
+pilon --genome Av.cp.assembly.fasta --frags Av.sorted.bam
+
+# Check that Pilon reports few if any errors in the assembly
+# If everything is OK, rename the output file
+
+mv pilon.fasta Av.cp.final.fasta
+
+# and alter the name of the sequence in the header again to match the file name to make things easier in later modules
+# here we are substituting 'final' with 'assembly_pilon'
+
+sed -i s/assembly_pilon/final/ Av.cp.final.fasta
+
+# Congratulations! You have successfully assembled an entire chloroplast genome.
+# The Aldrovanda chloroplast genome has some interesting features, which you can read about here: https://academic.oup.com/gbe/article/11/2/472/5284917
+# You will need this assembled genome for the future modules, so don't lose it!
+

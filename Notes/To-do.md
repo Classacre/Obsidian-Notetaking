@@ -2,11 +2,11 @@
 - [x] Create obsidian notes for other units ⏳ 2024-07-29 ✅ 2024-12-16
 - [x] 07:06 - 8:06 Watch Global issues introductory lecture ⏳ 2024-07-29 ✅ 2024-12-16
 - [x] Screenshot PIP Grade center and put on SVLG5001 module 1 ✅ 2025-02-10
-- [ ] Print out WIL forms and sign, then scan and upload
+- [x] Print out WIL forms and sign, then scan and upload ✅ 2025-02-25
 - [x] Tell Julie what dates I am available to work based on schedule ✅ 2025-02-18
 - [ ] Do Intern timesheet for WIL 🔁 every week https://mccuskercentre.uwa.edu.au/students/timesheets/xDuQNeeJO9stsq93e822ff45a6
-- [ ] Create Obsidian pages for each unit and organize them accordingly
+- [x] Create Obsidian pages for each unit and organize them accordingly ✅ 2025-02-25
 - [ ] Complete SCIEM4001 Module 2 ⏫ 
 - [ ] Learn Davinci Resolve 🔽 
-- [ ] Email either Dave Edwards or Monika (GENE5003) regarding schedule clashes
+- [x] Email either Dave Edwards or Monika (GENE5003) regarding schedule clashes ✅ 2025-02-25
 

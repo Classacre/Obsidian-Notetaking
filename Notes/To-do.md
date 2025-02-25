@@ -8,4 +8,5 @@
 - [ ] Create Obsidian pages for each unit and organize them accordingly
 - [ ] Complete SCIEM4001 Module 2 ⏫ 
 - [ ] Learn Davinci Resolve 🔽 
-- [ ] 
+- [ ] Email either Dave Edwards or Monika (GENE5003) regarding schedule clashes
+

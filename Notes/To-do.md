@@ -9,4 +9,6 @@
 - [ ] Complete SCIEM4001 Module 2 ⏫ 
 - [ ] Learn Davinci Resolve 🔽 
 - [x] Email either Dave Edwards or Monika (GENE5003) regarding schedule clashes ✅ 2025-02-25
+- [ ] Ask ASKUWA to put GENE5001 units on CAS (clashes are 3,5,7 but we have spoken to the unit coordinator) so that I have easier management for the timetable on my own calendar using ical
+- [ ] Ensure that I am overloaded on units, contact student science office
 

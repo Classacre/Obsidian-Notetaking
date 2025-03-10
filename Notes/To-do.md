@@ -15,7 +15,7 @@
 - [x] Email Farley Kwok that I am unable to attend module 4 related workshops due to clashes ✅ 2025-03-05
 - [x] Add GENE4003 workshop and quiz dates to calendar ✅ 2025-03-10
 - [x] Sort out GENE4003 ✅ 2025-03-10
-- [ ] Watch GENE5001 Introductory Lecture (embedded in presentaiton)
+- [x] Watch GENE5001 Introductory Lecture (embedded in presentaiton) ✅ 2025-03-10
 - [ ] Study for GENE4003 Worksheet
 - [ ] Understand Chip-Seq, Atac-seq and other epigenomic seqs
 - [ ] Watch channel part for GENE4001 Workshop 2

@@ -11,8 +11,11 @@
 - [x] Email either Dave Edwards or Monika (GENE5003) regarding schedule clashes ✅ 2025-02-25
 - [ ] Ask ASKUWA to put GENE5001 units on CAS (clashes are 3,5,7 but we have spoken to the unit coordinator) so that I have easier management for the timetable on my own calendar using ical
 - [x] Ensure that I am overloaded on units, contact student science office ✅ 2025-03-04
-- [ ] Apply for casual part time job that Angie sent
+- [x] Apply for casual part time job that Angie sent ✅ 2025-03-10
 - [x] Email Farley Kwok that I am unable to attend module 4 related workshops due to clashes ✅ 2025-03-05
-- [ ] Add GENE4003 workshop and quiz dates to calendar
-- [ ] Sort out GENE4003 
-
+- [x] Add GENE4003 workshop and quiz dates to calendar ✅ 2025-03-10
+- [x] Sort out GENE4003 ✅ 2025-03-10
+- [ ] Watch GENE5001 Introductory Lecture (embedded in presentaiton)
+- [ ] Study for GENE4003 Worksheet
+- [ ] Understand Chip-Seq, Atac-seq and other epigenomic seqs
+- [ ] Watch channel part for GENE4001 Workshop 2

@@ -14,6 +14,8 @@ Bioinformatics guy in Telethon (Timo): https://www.telethonkids.org.au/contact-u
 Ai and Data in health person (Yuliya): https://www.telethonkids.org.au/contact-us/our-people/k/yuliya-karpievitch/
 ### Study Plan
 ![[Master of Bioinformatics (96 Credit Points 2 Years)(2).xlsx]]
+### Study Plan V2
+![[Mika Nieuwenhuyzen Study Plan(1)(1).xlsx]]
 
 ## Study Plan V1 (Old & Outdated)
 

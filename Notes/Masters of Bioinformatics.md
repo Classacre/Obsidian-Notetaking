@@ -9,6 +9,9 @@ share_updated: 2024-07-22T15:10:58+08:00
 > > [!quote] The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
 > — Helen Keller
 ---
+
+# Dissertation Link
+[[Bioinformatics Dissertation]]
 # Notes for Masters of Bioinformatics
 Bioinformatics guy in Telethon (Timo): https://www.telethonkids.org.au/contact-us/our-people/l/timo-lassmann/
 Ai and Data in health person (Yuliya): https://www.telethonkids.org.au/contact-us/our-people/k/yuliya-karpievitch/

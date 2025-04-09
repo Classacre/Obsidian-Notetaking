@@ -12,3 +12,25 @@
 | **Manufacturing**       | Simpler productionSingle viral packagingLower total viral load needed                                                                                                                           | Requires half the viral particles for same effect              | More efficient production                                           | Important for clinical translation                              |
 
 This table summarizes the key achievements of single-AAV adenine base editors, demonstrating their superior efficiency, broad targeting capability, and therapeutic potential, particularly at clinically relevant doses where dual-AAV systems become limiting.
+
+
+Paper 1 Protocol. How did they prodiuce the lentiviruses?
+Based on the provided content from Nature Protocols, I can answer your question about the lentivirus production method.
+
+The protocol uses a PEI (polyethylenimine)-mediated transfection method to produce lentiviruses. Here's the specific delivery method described:
+
+1. Three plasmids are used for lentivirus packaging:
+    - pMD2G (VSV-G envelope-expressing plasmid)
+    - psPAX2 (HIV-1 gag pol-expressing plasmid)
+    - LentiCRISPRv2-sgRNA (the vector containing the guide RNA)
+2. The transfection procedure involves:
+    - Using 293FT cells (a fast-growing derivative of HEK 293T cells that produces 4-5× higher lentiviral titers)
+    - Preparing a PEI-DMEM mixture combined with the three plasmids
+    - Transfecting 293FT cells at 80-90% confluency in poly-D-lysine coated plates
+    - Adding sodium butyrate at 16 hours post-transfection to increase yield
+3. The lentiviruses are then:
+    - Collected from the supernatant at multiple timepoints (24h, 36h, 48h, 60h, and 72h post-transfection)
+    - Concentrated using PEG-6000 precipitation method
+    - Resuspended in CMGF(-) medium and stored at -80°C
+
+This is a standard triple transfection method for lentivirus production, using PEI as the transfection reagent rather than commercial alternatives like Lipofectamine.

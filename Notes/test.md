@@ -4,6 +4,7 @@ Friday
 
 Saturday
 - [ ] Internship Evaluation form
+- [ ] Internship Journal Peer Review and Marking
 - [ ] 4001 Mini Lecture
 	- [x] Check if references are valid ✅ 2025-04-12
 	- [ ] Read through papers based on outline

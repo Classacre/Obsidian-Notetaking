@@ -4,7 +4,7 @@ Friday
 
 Saturday
 - [ ] 4001 Mini Lecture
-	- [ ] Check if references are valid
+	- [x] Check if references are valid ✅ 2025-04-12
 	- [ ] Read through papers based on outline
 		- [ ] Introduction to Spatial Transcriptomics [Du et Al](https://doi.org/10.1186/s12967-023-04150-2), [Gol Scavshma](https://watershed.bio/resources/spatial-transcriptomics-applications-methods-challenges)
 		- [ ] Historical Development [Gol & Schaafsma, 2024](https://watershed.bio/resources/spatial-transcriptomics-applications-methods-challenges), [Jin et al](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-024-02040-9)

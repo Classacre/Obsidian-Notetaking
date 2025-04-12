@@ -3,6 +3,7 @@ Friday
 - [x] Do McCusker Journal ✅ 2025-04-12
 
 Saturday
+- [ ] Internship Evaluation form
 - [ ] 4001 Mini Lecture
 	- [x] Check if references are valid ✅ 2025-04-12
 	- [ ] Read through papers based on outline

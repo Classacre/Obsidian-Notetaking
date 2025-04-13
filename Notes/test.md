@@ -14,8 +14,8 @@ Saturday
 		- [x] Data Analysis Frameworks [Cockell et al](https://bookdown.org/sjcockell/ismb-tutorial-2023/), [Dries et al](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2) ✅ 2025-04-12
 		- [x] Applications in Developmental Biology [Dries et al](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2), [William et al](https://doi.org/10.1186/s13073-022-01075-1) ✅ 2025-04-12
 		- [x] Applications in Disease Research [Jin et al](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-024-02040-9), [William et al](https://doi.org/10.1186/s13073-022-01075-1) ✅ 2025-04-12
-		- [ ] Technical Advantages [Excelra 2023](https://www.excelra.com/whitepaper/excelra-spatial-transcriptomics-solutions/)
-		- [ ] Current Limitations
+		- [x] Technical Advantages [Excelra 2023](https://www.excelra.com/whitepaper/excelra-spatial-transcriptomics-solutions/) ✅ 2025-04-13
+		- [x] Current Limitations ✅ 2025-04-13
 		- [ ] Future Directions
 		- [ ] Conclusion and Significance
 	- [ ] Make Mini lecture presentation

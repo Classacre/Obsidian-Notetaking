@@ -5,3 +5,4 @@
 
 ---
 # Paper
+![[Exam paper for Genomics.pdf]]
